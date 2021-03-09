@@ -23,13 +23,13 @@ npm install
 npm run serve
 
 ```
-### 4.View the final result on
+### 4.View the final result on your local system here -
 ``` 
 localhost:8080
 
 ```
 
-## Guidance By-
+## Guidance By -
 This project is done under the guidance of Prof. Sumit kalra.
 
 
