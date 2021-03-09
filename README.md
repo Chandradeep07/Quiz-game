@@ -30,7 +30,7 @@ localhost:8080
 ```
 
 ## Guidance By -
-This project is done under the guidance of Prof. Sumit kalra.
+This project is done under the guidance of Dr. Sumit kalra.
 
 
 
