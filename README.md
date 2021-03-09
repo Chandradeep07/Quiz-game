@@ -1,7 +1,7 @@
 
 This is a Quiz-game based on vue.
 
-For the questions TRIVIA API(https://opentdb.com/api_config.php) is being used.
+For the questions [TRIVIA API](https://opentdb.com/api_config.php) is being used.
 
 To view the complete final website go to this link-
 
